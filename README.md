@@ -15,7 +15,7 @@ I implemented the classifier leveraging GPT-neo released by EleutherAI. The mode
 
 ### Workflow
 
-![](https://i.imgur.com/bDa2gTf.png)
+<img src="https://i.imgur.com/bDa2gTf.png" height="50%" width="50%">
 
 ### Usage
 
